@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java (core), SQL, Basics of Python  
+- **Languages**: Java (core), SQL  
 - **Testing**: Manual Testing, Functional Testing, Regression, Smoke, Exploratory  
 - **Tools**: Selenium WebDriver, TestNG, JIRA, Azure DevOps, Postman, MySQL  
 - **Frameworks**: TestNG, CI/CD (Jenkins, Maven)
