@@ -20,7 +20,7 @@
 ### 🔹 [Reqres-API-Automation](https://github.com/Varsha801/RestAssuredTutorial.git)
 > API test automation using Rest Assured, TestNG, and Java. Covers common HTTP methods with validation and reusable utilities.
 
-### 🔹 [Ecommerce-UI-Automation](https://github.com/Varsha801/AutomationCICD.git)
+### 🔹 [Ecommerce-UI-Automation](https://github.com/Varsha801/ECommerce_Selenium_TestNg.git)
 > Web UI automation framework for login, search, and checkout flows using Selenium, Java, TestNG, and Page Object Model.
 
 ---
